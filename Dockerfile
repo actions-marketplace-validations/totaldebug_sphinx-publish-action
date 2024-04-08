@@ -1,4 +1,4 @@
-FROM python:3.9.6-buster
+FROM python:3.12.2-bookworm
 
 LABEL version="1.0.0"
 LABEL repository="https://github.com/totaldebug/sphinx-publish-action"
